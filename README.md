@@ -1,2 +1,2 @@
 # test-buka
-An app for buka business
+An app for buka business.
